@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moizna Zaheer
 - 👀 I’m interested in development
-- 🌱 I’m currently learning wordpress
+- 🌱 I’m currently learning ML and DL
 - 📫 How to reach me www.linkedin.com/in/moizna-zaheer-84056829a
 
 <!---
